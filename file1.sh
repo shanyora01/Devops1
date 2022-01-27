@@ -1,5 +1,6 @@
 ls
 date
 free -g
-hostnew
+hostname
+echo ".................."
 
